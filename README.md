@@ -24,7 +24,7 @@
 
 ## 자기소개서 문항 분석
 
-- [자기소개서 문항 리서치]()
+- [자기소개서 문항 리서치](https://github.com/qwaszx357/Recruit-research/blob/master/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C%20%EB%AC%B8%ED%95%AD%20%EB%A6%AC%EC%84%9C%EC%B9%98.md)
 
 ### 1. 직무와 관련된 프로젝트 경험
 
