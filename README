@@ -1,8 +1,20 @@
 # 채용공고 리서치 및 준비
 ## 백엔드 채용공고 분석
-- [채용공고]()
+- [채용공고](https://github.com/qwaszx357/Recruit-research/blob/master/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%20%EB%A6%AC%EC%84%9C%EC%B9%98.md)
+- 채용공고 리서치 : <https://github.com/qwaszx357/Recruit-research/blob/master/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%20%EB%A6%AC%EC%84%9C%EC%B9%98.md>
 
 ### 1. 자격요건 분석
 
+- Java, Spring, Oracle, MSA / Cloud 기반 기술에 대한 경험
+- React, Vue, Angular 등 SPA 프레임워크 사용에 능숙
+- Git 등의 분산 버전 관리 시스템 이용에 능숙
+- HTML, CSS, JavaScript에 대한 이해
+- JPA를 통한 MySQL 등의 RDBMS 경험
+
 ### 2. 우대사항 분석
 
+- TypeScript, Flow를 이용한 JavaScript 정적 타입 분석 경험
+- Node.js, Kotlin 사용 경험
+- AWS를 활용한 개발, 운영 경험
+- 소규모 프로젝트의 리딩 경험
+- 반응형 디자인, 웹 접근성, 웹 표준을 고려한 UI 개발 경험
