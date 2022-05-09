@@ -1,7 +1,8 @@
 # 채용공고 리서치 및 준비
+
 ## 백엔드 채용공고 분석
-- [채용공고](https://github.com/qwaszx357/Recruit-research/blob/master/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%20%EB%A6%AC%EC%84%9C%EC%B9%98.md)
-- 채용공고 리서치 : <https://github.com/qwaszx357/Recruit-research/blob/master/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%20%EB%A6%AC%EC%84%9C%EC%B9%98.md>
+
+- [채용공고 리서치](https://github.com/qwaszx357/Recruit-research/blob/master/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%20%EB%A6%AC%EC%84%9C%EC%B9%98.md)
 
 ### 1. 자격요건 분석
 
